@@ -4,3 +4,5 @@ __pycache__/
 annenv/
 *.h5
 *.pkl
+
+venv/
